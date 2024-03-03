@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Rosemol Saju - Index</title>
+  <title>Saju Mulakkal Joseph - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -40,9 +40,11 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Rosemol Saju</a></h1>
+        <h1 class="text-light"><a href="index.html">Saju Mulakkal</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://wa.me/6584232773" class="twitter"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://wa.me/6598627561" class="twitter"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://www.facebook.com/saju.m.joseph" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.linkedin.com/in/sajumulakkal/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -65,8 +67,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Rosemol Saju	</h1>
-      <p> I'm a <span class="typed" data-typed-items="Young Learner,  UX Engineer, Web developer"></span></p>
+      <h1>Saju Mulakkal Joseph</h1>
+      <p> I'm a <span class="typed" data-typed-items="Business Analyst, Solution Architect, Platform & Application Support Expert, Data  Analyst, UX Engineer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -79,7 +81,7 @@
         <div class="section-title">
           <h2>About </h2>
           <p>
-          I am learning Skills on Web Development, Datat Analysis and UX Buding
+          Technology Expert with specialization in Application & Infrastructure Support, proficient at delivering solutions with a collaborative and partnership (24 years of experience in Financial Systems management,Infrastructure and Application Operations) Results-oriented IT professional with extensive exposure in Continues Process Improvement, Operations Transformation, Incident & Change Management Rich experience in Investment Banking software applications in Equities trading & Research Publication
           </p>
         </div>
 
@@ -94,16 +96,16 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> rosemol.netlify.app</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +65 80343546</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> sajumulakkal.netlify.app</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +65 98627561</li>
                   <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Singapore</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Singapore -Cambridge A level Graduate</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> rosemolsaju05@gmail.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong>in progress </li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> sajumulakkal@hotmail.com</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Currently Tied-up </li>
                 </ul>
               </div>
             </div>
@@ -123,7 +125,7 @@
         <div class="section-title">
           <h2>Skills</h2>
           <p>
-          Well versed with HTML/CSS/Python FLask Technologies...
+          Well versed with SQL and No-SQL Database/Data Science/Cloud/Blockchain & Cyber Securities Technologies...
           </p>
         </div>
 
@@ -132,20 +134,60 @@
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML/CSS  <i class="val">90%</i></span>
+              <span class="skill">SQL DB (Oracle/Sybase/MySQL/SQL Server/Informix/Inetgra)  <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Python FLask Web development <i class="val">75%</i></span>
+              <span class="skill">No SQL (Marklogic/Endeca/Firebase/Intersystems Cache/SPLUNK) <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
-  
+            <div class="progress">
+              <span class="skill">Scripting Language (JavaScript/Perl/Python )<i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+                        <div class="progress">
+			              <span class="skill">Blockchain- Ethereum Solidity, EOSIO BlockOne , Moralis  <i class="val">75%</i></span>
+			              <div class="progress-bar-wrap">
+			                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+			              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Web Platform-IIS/Apache(LAMP), WebLogic, Iplanet, L3, Akamai,IFA  <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Cloud Platform -GCP ( Google ) / AWS /IBM Bluiemix & Watson <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Testing Tools -Rational Robot/Win & Load Runner/JUNIT/Selenium <i class="val">65%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
 
       </div>
     </section><!-- End Skills Section -->
@@ -177,8 +219,8 @@
               <p><em>Innovative and result oriented Application Support Engineer with 24+ years of IT experience in various Information Technologies.</em></p>
               <ul>
                 <li>Simei, Singapore</li>
-                <li>+65-80343546</li>
-                <li>rosemolsaju05@gmail.com</li>
+                <li>+65-98627561</li>
+                <li>sajumulakkal@hotmail.com</li>
               </ul>
             </div>
 
@@ -285,37 +327,111 @@
           <h2>Certification</h2>
         </div>
 
+		<div>
 
+		      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6723603780740497408" height="700" width="350" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+		</div>
         <div class="container">
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+		<tr><th>Professional Certificates</th></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/93KGK95GTN7G"><td>IBM AI Engineering</td></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/W3645GVM53EH"><td>IBM Data Science</td></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/YGGKYXXSNN6S"><td>IBM Cybersecurity Analyst</td></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/PHAFPPXW7WT9"><td>Cloud Architecture with Google Cloud</td></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/FBDYHYFDBZWL"><td>SRE and DevOps Engineer with Google Cloud</td></tr>
+		 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/797D4KUGFFFL"><td>Cloud Engineering with Google Cloud</td></tr>
+ 	<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/PHK5H6TGMK7R"><td>Data Engineering with Google Cloud</td></tr>
+ 	<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/professional-cert/HNQERPT64N4J"><td>Google Data Analytics</td></tr>
+		</table>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+				 <tr><th>Specialization Certificates</th></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/2U49YBK29G9T"><td>Advanced Machine Learning with TensorFlow on Google Cloud Platform</td></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/7AX6WUPWNFT3"><td>Networking in Google Cloud</td></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/GPQR7PN92PCU"><td>Machine Learning with TensorFlow on Google Cloud Platform</td></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/ZLSPQUNSS3TB"><td>Data Engineering, Big Data, and Machine Learning on GCP</td></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/EW6VNGMBVWHR"><td>Developing Applications with Google Cloud Platform</td></tr>
+				 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/certificate/JJGXZ6QCKVNL"><td>Google UX Design</td></tr>
+
+		</table>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+						 <tr><th>Credly Verified Badges for AWS, IBM & Google</th></tr>
+						 <tr class="table-row"data-href="https://www.credly.com/users/saju-mulakkal-joseph/badges?sort=-state_updated_at&page=1"><td>Credly</td></tr>
+	 <tr><th>Google Badges</th></tr>
+						 <tr class="table-row"data-href="https://googlecourses.qwiklabs.com/public_profiles/eff1f53f-fca4-4952-aaf4-b6aab626c280"><td>Google</td></tr>
+			<tr><th>AWS</th></tr>
+		<tr class="table-row"data-href="https://www.credly.com/badges/974a4177-8f0d-4d3e-953d-4eb1c4c6017f"><td>AWS Certified Cloud Practitioner</td></tr>
+
+		</table> 
+	<tr><th>Pluralsight Badges</th></tr>
+						 <tr class="table-row"data-href="https://app.pluralsight.com/profile/saju-joseph-33 "><td>Pluralsight</td></tr>
+		</table>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+								 <tr><th>John Hopkins University</th></tr>
+								 <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/verify/UVPF2HEGKHFJ"><td>COVID-19 Contact Tracing</td></tr>
+
+		</table>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+		<tr><th>INSEAD</th></tr>
+		<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/verify/WQWG65VZDRXU"><td>Blockchain Technologies</td></tr>
+
+		</table>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+		<tr><th>The Hong Kong University of Science and Technology</th></tr>
+        <tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/verify/N4B2HWSW58J8"><td>FinTech Foundations and Overview</td></tr>
+		</table>
 
 		<table class='table table-bordered table-condensed table-striped table-hover'>
-						 <tr><th>Credly Verified Badges for Google</th></tr>
-						 <tr class="table-row"data-href="https://www.credly.com/badges/2a3600cd-4a59-48bc-bc9c-005166df7acc/public_url"><td>Google UX design</td></tr>
+		<tr><th>University of Cape Town</th></tr></th></tr>
+		<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/ZUXGGAP847J6"><td>Fintech Startups in Emerging Markets</td></tr>
+		</table>
+
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+		<tr><th>ITIL</th></tr></th></tr>
+		<tr class="table-row"data-href="https://candidate.peoplecert.org/MobileReports.aspx?id=20E5673CE3D9A78276C18ED45430651B047D6D5B69A1C00A8381283CFDC70496B4D1BE6C0F53F998D3F07C07884661A96E423719D1EE36D248C84A03F205EC1C346A93560A461D8384CA69681F9CE4D2991BEF138AE9D2CA61F86CFBB1C61584293E9DC16F177925880A1CA139CECB2ED9A1E700F6267809"><td>
+ITIL  Intermediate Certificate in IT Operational Support and Analysis</td></tr>
+		<tr class="table-row"data-href="
+https://candidate.peoplecert.org/MobileReports.aspx?id=C7D6768D3D8E22B4E0D76591A9C341A98DAA84E7062AD4392666203B4F0D903EBAE5DA29B3C5E7FAC52C97405E6883DE595F5BB8F64C3F8B30971187ECB74D4D8ED575F6514B7D8E4643ED4117CDE082EA16E3A93DD2048DB5857C59C07739BF6CE79D5CB6DD47536466B83C75FA6D0DC65E1FD5100A705F"><td>
+ITIL  Intermediate Certificate in IT Continual Service Improvement</td></tr>
+		<tr class="table-row"data-href="
+https://sajumulakkal.netlify.app/assets/pdf/Session_127223_Certificate_foundation.pdf"><td>
+ITIL  Foundation Certificate</td></tr>
+		</table>
+		</div>
+		<div>
+		<table class='table table-bordered table-condensed table-striped table-hover'>
+		<tr><th>NUS -National University of Singapore &  Asian Institute of Digital Finance (AIDF) </th></tr></th></tr>
+		<tr class="table-row"data-href="https://sff.apixoxygen.com/certificate/fad9a89341bf426f8a277e9b102152c6"><td>
+Designing Financial Services on Web 3.0</td></tr>
+		<tr class="table-row"data-href="
+https://sff.apixoxygen.com/certificate/504f62ec77f548059853447d3a3f9921"><td>
+Building Financial Services on Web 3.0</td></tr>
+		<tr class="table-row"data-href="
+https://sff.apixoxygen.com/certificate/ed4f36ec3f394cae83a1a5afd771dc46"><td>
+Sustainable Financial Services on Web 3.0</td></tr>
+		<tr class="table-row"data-href="
+https://sff.apixoxygen.com/certificate/8f37338475ad43d98d5b8e65b394aabd"><td>
+Web 3.0 Knowledge Certificate in Financial Services</td></tr>
+		</table>
+		</div>
+
 		<div>
    	     <table class='table table-bordered table-condensed table-striped table-hover'>
-		<tr><th>Google UX</th></tr></th></tr>
-		<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/verify/3KJ4CQ6SKLUK"><td>
-Build Dynamic User Interfaces (UI) for Websites </td></tr>
+		<tr><th>Duke University</th></tr></th></tr>
+		<tr class="table-row"data-href="https://www.coursera.org/account/accomplishments/specialization/certificate/MW3MRP8955RA"><td>
+Decentralized Finance (DeFi): The Future of Finance </td></tr>
 	<tr class="table-row"data-href="
 https://www.coursera.org/account/accomplishments/verify/TFKFSQTY3SBA"><td>
-Conduct UX Research and Test Early Concepts</td></tr>
+Decentralized Finance (DeFi) Infrastructure</td></tr>
 		<tr class="table-row"data-href="
-https://www.coursera.org/account/accomplishments/verify/9UH4SA7FTSMJ"><td>
-Create High-Fidelity Designs and Prototypes in Figma</td></tr>
+https://www.coursera.org/account/accomplishments/verify/CYPNJYTNZACD"><td>
+Decentralized Finance (DeFi) Primitives</td></tr>
 		<tr class="table-row"data-href="
-https://www.coursera.org/account/accomplishments/verify/FD4X7MNG7MNP"><td>
-Design a User Experience for Social Good & Prepare for Jobs</td></tr>
+https://www.coursera.org/account/accomplishments/verify/JFXPS7S8WQ5Z"><td>
+Decentralized Finance (DeFi) Deep Dive</td></tr>
 		<tr class="table-row"data-href="
-https://www.coursera.org/account/accomplishments/verify/J3LHVDTJ7M82">
-<td>Build Wireframes and Low-Fidelity Prototypes</td></tr>
-
-		<tr class="table-row"data-href="
-https://www.coursera.org/account/accomplishments/verify/5H35CGK8BUY7"><td>
-Foundations of User Experience (UX) Design</td></tr>
-		<tr class="table-row"data-href="
-https://www.coursera.org/account/accomplishments/verify/L3MHEK5R949S"><td>
-Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
-
+https://www.coursera.org/account/accomplishments/verify/EPHVASDT7XRF"><td>
+Decentralized Finance (DeFi) Opportunities and Risks</td></tr>
 		</table>
 		</div>
 
@@ -332,7 +448,8 @@ Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
 	          <h2>Learning Works</h2>
 	        </div>
 	<div>
-	    <h2 class="text-center pad-section">These websites are developed to demonstrate my skills in HTMl/CSS/Python-Flask..</h2>
+	    <h2 class="text-center pad-section">These websites are developed to demonstrate my skills in Web /REACT/ Block chain Technologies....
+	    These Sites are not commerical purpose , only for understanding the concepts - Thanks to EOSIO for building blockchain platform and allowing us to use the platform..</h2>
 
 
         <div>
@@ -346,6 +463,50 @@ Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
        </div>
 
 
+	    <div class="proj-box-format">
+	        <iframe src="https://slabs-react-burger.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+	    </div>
+	    <div class="proj-box-format">
+			    	<a href="https://slabs-react-burger.netlify.app/" target="_blank">Click Me Here for "Burger Order", Website was build using REACT and FIREBASE</a>
+		</div>
+
+	    <div class="proj-box-format">
+	        <iframe src="https://slabs-blockchain-kunjali-marakar.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+	    </div>
+	    <div class="proj-box-format">
+			    	<a href="https://slabs-blockchain-kunjali-marakar.netlify.app/" target="_blank">Click Here for "Kunjali Marakar", Website was build using EOSIO TESTNET BLOCK CHAIN and REACT </a>
+
+			    	<p>Account Name :   rjzkokcjgeis </p>
+			        <p>Private Key 	:   5JMGJkJyFrnKaqEw83gpKkzbMcP3PtAa6sdNBngTEFxqQRNSzK2 </p>
+
+		</div>
+	    <div class="proj-box-format">
+			        <iframe src="https://sajumulakkal.netlify.app/assets/img/slabs_stripe.JPG" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+		</div>
+		<div class="proj-box-format">
+					<a href="http://34.125.10.220:3000/profile" target="_blank">Click Here for "sLabs Ecommerce Site", Website was build using Mongo DB/Elastic Search/Strip for Credit Card Payment </a>
+					<p>Login :   sajumulakkal@hotmail.com </p>
+					<p>Password	:   saju </p>
+
+	  	</div>
+	  	<div class="proj-box-format">
+					        <iframe src="https://slabs-coin-stake-unstake-in-dapp-tokenfarm.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+		</div>
+				<div class="proj-box-format">
+							<a href="https://slabs-coin-stake-unstake-in-dapp-tokenfarm.netlify.app/" target="_blank">Click Here for "sLabs Coin Stake/Un-stake ", Website was build using Eitherium Platform - Smart Contract is written in Solidity  </a>
+							<p>Please connect Via MetaMask Wallet</p>
+
+
+	  	</div>
+	  	<div class="proj-box-format">
+					        <iframe src="https://slabs-digital-currency-sentiment.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+		</div>
+				<div class="proj-box-format">
+							<a href="https://slabs-digital-currency-sentiment.netlify.app/" target="_blank">Click Here for "sLabs Vote for digital currency sentiment", Website was build using Eitherium & Moralis Platform - Smart Contract is written in Solidity, Contract Events are captured in Moralis server  </a>
+							<p>Please connect Via MetaMask Wallet</p>
+
+
+	  	</div>
 
 	  	<div class="proj-box-format">
 	      <iframe src="https://my-kitchen-recipes.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
@@ -383,19 +544,19 @@ Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>Singapore</p>
+                <p>BLK 18,#02-08, Singapore 529943</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>rosemolsaju05@gmail.com</p>
+                <p>sajumulakkal@hotmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+65 80343546</p>
+                <p>+65 98627561</p>
               </div>
 
               <iframe src="" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
@@ -447,7 +608,7 @@ Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span> RoseLabs & </span></strong><a href="https://rosemol.netlify.app">Rose Labs </a>
+        &copy; Copyright <strong><span> sLabs & </span></strong><a href="https://www.KarmaCoins.info">KarmaCoins </a>
       </div>
 
     </div>
@@ -475,8 +636,8 @@ Start the UX Design Process: Empathize, Define, and Ideate</td></tr>
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+6584232773", // WhatsApp number
-            call_to_action: "Message To Rosemol34", // Call to action
+            whatsapp: "+6598627561", // WhatsApp number
+            call_to_action: "Message To Saju", // Call to action
             position: "right", // Position may be 'right' or 'left'
         };
         var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
